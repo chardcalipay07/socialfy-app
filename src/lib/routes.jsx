@@ -8,7 +8,7 @@ import Profile from "../components/profile";
 import Users from "../components/users";
 
 
-export const ROOT = "/login";
+export const ROOT = "/";
 export const LOGIN = "/login";
 export const REGISTER = "/register";
 
