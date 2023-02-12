@@ -72,6 +72,6 @@ export default function Profile() {
             </Stack>
     );
 
-    navigate(0)
+    // navigate(0)
     
 }
